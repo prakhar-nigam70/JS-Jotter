@@ -21,8 +21,8 @@
   },
   "devDependencies": {
     "@js-jotter/local-api": "^1.0.0",
-    "commander": "^11.1.0",
     "@types/node": "^20.8.7",
+    "commander": "^11.1.0",
     "esbuild": "0.8.26",
     "typescript": "^5.2.2"
   }
